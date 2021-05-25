@@ -9,13 +9,13 @@ The major workflow is showed [here](https://www.processon.com/view/link/60ac4a24
 
 ## Rolling forecast
 
-[Abstract demonstration](https://www.processon.com/view/link/60ac4abc5653bb6411740cf3)
+[![Abstract demonstration](http://assets.processon.com/chart_image/60a7d5b6079129238fabae6f.png?_=1621904148973)](https://www.processon.com/view/link/60ac4abc5653bb6411740cf3)
 
 ## LSTM model
 
 It is the baseline model I use for comparison with the ARIMA model performance.
 
-[![Abstract](http://assets.processon.com/chart_image/60a7d5b6079129238fabae6f.png?_=1621904148973)](https://www.processon.com/view/link/60ac4a701e08531e9c7f13dc)
+[![Abstract](http://assets.processon.com/chart_image/60a71b115653bb5d3f387333.png?_=1621904207272)](https://www.processon.com/view/link/60ac4a701e08531e9c7f13dc)
 
 
 ## ARIMA model
