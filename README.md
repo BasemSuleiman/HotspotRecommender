@@ -7,9 +7,7 @@ For a demo preview, please open the `DATA5709_Capstone_Shinyapp_online.ipynb` in
 
 The major workflow is showed
 
-<a href="https://www.processon.com/view/link/60ac4a247d9c0821842de518" target = "_blank">
-   <iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/60a7d5b6079129238fabae6c"></iframe>
-</a>
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/60a7d5b6079129238fabae6c"></iframe>
 
 ## Rolling forecast
 
