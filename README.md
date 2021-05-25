@@ -9,8 +9,10 @@ The major workflow is showed [![here](http://assets.processon.com/chart_image/60
 
 ## Rolling forecast
 
-[![Abstract demonstration](http://assets.processon.com/chart_image/60a726ace0b34d39389484d9.png)](https://www.processon.com/view/link/60ac4abc5653bb6411740cf3)
-
+<a href="https://www.processon.com/view/link/60ac4abc5653bb6411740cf3" target = "_blank">
+   <img alt="Rolling Forecast" src="http://assets.processon.com/chart_image/60a726ace0b34d39389484d9.png"
+   width=450">
+</a>
 
 ## LSTM model
 
