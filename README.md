@@ -11,6 +11,7 @@ The major workflow is showed [![here](http://assets.processon.com/chart_image/60
 
 [![Abstract demonstration](http://assets.processon.com/chart_image/60a726ace0b34d39389484d9.png)](https://www.processon.com/view/link/60ac4abc5653bb6411740cf3)
 
+
 ## LSTM model
 
 It is the baseline model I use for comparison with the ARIMA model performance.
