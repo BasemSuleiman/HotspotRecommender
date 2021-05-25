@@ -15,6 +15,7 @@ The major workflow is showed [here](https://www.processon.com/view/link/60ac4a24
 
 It is the baseline model I use for comparison with the ARIMA model performance.
 
-[Abstract](https://www.processon.com/view/link/60ac4a701e08531e9c7f13dc)
+[![Abstract](http://assets.processon.com/chart_image/60a7d5b6079129238fabae6f.png?_=1621904148973)](https://www.processon.com/view/link/60ac4a701e08531e9c7f13dc)
+
 
 ## ARIMA model
