@@ -1,6 +1,7 @@
 # New York City taxis historical order distribution check and availability prediction system
 
-This is the capstone project of my master degree of data science in USYD. 
+This is the capstone project of my master degree of data science in USYD. Project Owner: Dr. Basem Suleiman.
+
 The data set we use is [the New York City Taxi and Limousine Commission (TLC) Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), which is released and under supervision by **the New York City Taxi and Limousine Commission (TLC)**
 
 The project fully utilizes Google Colab computation power and all intermedium data is stored in Google Drive, so please make sure you have authorized your drive to Colab when running the code and change the directory path to your own drive.
@@ -25,7 +26,12 @@ The major workflow is showed
 <a href="https://www.processon.com/view/link/60ac4a247d9c0821842de518" target = "_blank">
    <img alt="workflow" src="http://assets.processon.com/chart_image/60a7d5b6079129238fabae6f.png" width=650">
 </a>
+<<<<<<< HEAD
 
+=======
+                                                                                                            
+## Rolling forecast
+>>>>>>> f62c74b177b2cd64e1e99676609a686616b310ab
 
 ## Data download and preprocessing
 
