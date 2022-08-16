@@ -6,7 +6,7 @@ The data set we use is [the New York City Taxi and Limousine Commission (TLC) Tr
 
 The project fully utilizes Google Colab computation power and all intermedium data is stored in Google Drive, so please make sure you have authorized your drive to Colab when running the code and change the directory path to your own drive.
 
-For a demo preview, please open the `DATA5709_Capstone_Shinyapp_online.ipynb` in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_Shinyapp_online.ipynb). It dynamically creates a host and a temporary url for inspectation.
+For a demo preview, please open the `DATA5709_Capstone_Shinyapp_online.ipynb` in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_Shinyapp_online.ipynb). It dynamically creates a host and a temporary url for inspectation.
 
 ---------------
 
@@ -35,20 +35,20 @@ The major workflow is showed
 
 ## Data download and preprocessing
 
-`DATA5709_Capstone_preprocess.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_preprocess.ipynb)
+`DATA5709_Capstone_preprocess.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_preprocess.ipynb)
 
 ## Clean data initial analysis
 
-`DATA5709_Capstone_InitialDataAnalysis.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_InitialDataAnalysis.ipynb)
+`DATA5709_Capstone_InitialDataAnalysis.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_InitialDataAnalysis.ipynb)
 
 ## Models
 ### ARIMA
 
-`DATA5709_Capstone_ARIMA.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_ARIMA.ipynb)
+`DATA5709_Capstone_ARIMA.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_ARIMA.ipynb)
 
 ### LSTM
 
-`DATA5709_Capstone_LSTM.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_LSTM.ipynb)
+`DATA5709_Capstone_LSTM.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_LSTM.ipynb)
 
 <a href="https://www.processon.com/view/link/60ac4a701e08531e9c7f13dc" target = "_blank">
    <img alt="LSTM abstract" src="http://assets.processon.com/chart_image/60a71b115653bb5d3f387333.png" width=650">
@@ -71,4 +71,4 @@ Since it's a time series problem,  we use the Rolling-forecast method to input a
 
 ## Evaluation
 
-`DATA5709_Capstone_Evaluation_of_ARIMA_and_LSTM.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolandHot/DATA5709Capstone/blob/main/DATA5709_Capstone_Evaluation_of_ARIMA_and_LSTM.ipynb)
+`DATA5709_Capstone_Evaluation_of_ARIMA_and_LSTM.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BasemSuleiman/HotspotRecommender/blob/main/DATA5709_Capstone_Evaluation_of_ARIMA_and_LSTM.ipynb)
