@@ -1,6 +1,10 @@
 # New York City taxis historical order distribution check and availability prediction system
 
-This is the capstone project of my master degree of data science in USYD. Project Owner: Dr. Basem Suleiman.
+This is the capstone project of my master degree of data science in USYD, supervised by Dr. Basem Suleiman.
+
+The below paper must be cited should any of the materials be used.
+
+H. Huan, B Suleiman, and W. Yaqub. _Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services._ Web Information System Engineering (WISE), 2022
 
 The data set we use is [the New York City Taxi and Limousine Commission (TLC) Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), which is released and under supervision by **the New York City Taxi and Limousine Commission (TLC)**
 
